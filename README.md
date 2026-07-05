@@ -17,14 +17,14 @@ AI Powered Fleet Safety & Driver Risk Analytics Platform
 
 ## Technology Stack
 
-Frontend:
-React.js
+### Frontend
+- React.js
 
-Backend:
-Spring Boot
+### Backend
+- Spring Boot
 
-Database:
-MySQL
+### Database
+- MySQL
 
 ## Future Scope
 
